@@ -16,6 +16,10 @@ android {
 }
 
 dependencies {
+<<<<<<< HEAD
     compile 'com.facebook.react:react-native:+'
+=======
+    provided 'com.facebook.react:react-native:+'
+>>>>>>> upstream/master
     compile 'com.yqritc:android-scalablevideoview:1.0.1'
 }
